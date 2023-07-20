@@ -1,0 +1,12 @@
+accelerate
+librosa
+git+https://github.com/huggingface/transformers.git
+torch
+Cython==0.29.21
+phonemizer==2.2.1
+scipy
+numpy
+torchaudio
+matplotlib
+Unidecode==1.1.1
+monotonic-align
